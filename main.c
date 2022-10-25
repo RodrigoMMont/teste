@@ -7,5 +7,6 @@ int main()
     printf("teste");
     printf("vazio");
     printf("Outro");
+    printf("outro teste");
     return 0;
 }
